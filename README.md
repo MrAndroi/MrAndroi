@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrAndroi
+- 👋 Hi, I’m Sami
 - 👀 I’m interested in Android and backend development
 - 📫 How to reach me -> sami.shorman3000@gmail.com
 
